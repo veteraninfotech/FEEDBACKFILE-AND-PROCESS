@@ -18,7 +18,7 @@ include('leftpanel.php');
                     <div class="col-md-6">
                         <div class="card">
                             <div class="card-header">
-                                <h4 class="card-title" id="basic-layout-colored-form-control"> Opinion</h4>
+                                <h4 class="card-title" id="basic-layout-colored-form-control">Share your Opinion</h4>
                                 <a class="heading-elements-toggle"><i class="icon-ellipsis font-medium-3"></i></a>
                                 <div class="heading-elements">
                                     <ul class="list-inline mb-0">
