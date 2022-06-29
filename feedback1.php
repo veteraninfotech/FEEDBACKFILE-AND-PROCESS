@@ -77,8 +77,9 @@ include('leftpanel.php');
 </div>
 
 
+<!-- test -->
 
-
+<!-- test2 -->
 
 
 <?php include('footer.php') ?>
