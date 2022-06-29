@@ -76,6 +76,11 @@ include('leftpanel.php');
     </div>
 </div>
 
+
+
+
+
+
 <?php include('footer.php') ?>
 
 <script src="app-assets/js/core/libraries/jquery.min.js" type="text/javascript"></script>
